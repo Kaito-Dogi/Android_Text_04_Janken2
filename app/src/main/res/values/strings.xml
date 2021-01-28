@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ジャンケン！</string>
+    <string name="goo">グー</string>
+    <string name="choki">チョキ</string>
+    <string name="pa">パー</string>
+    <string name="player_hand">あなた</string>
+    <string name="cpu_hand">CPU</string>
+    <string name="result">結果</string>
+</resources>
